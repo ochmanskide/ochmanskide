@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **ochmanskide/ochmanskide** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,7 +15,7 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Lukasz Ochmanski</h1>
 <h3 align="center">A passionate Java developer / Software Architect / Gradle enthusiast</h3>
-<p align="left">Here, you can find source code for Quarkus-based Docker images, as well as ready-to-go Quarkus sample projects. These images are optimized for size and they use Debian distribution, instead of RedHat, which provides much different experience. Both Maven and Gradle variations are available.</p>
+<p align="left">Here, you can find source code for Quarkus-based Docker images, as well as ready-to-go Quarkus sample projects. These images are optimized for disk size and they use Debian distribution, instead of RedHat, which provides much different experience. Both Maven and Gradle variations are available. If you need a different distribution, or a newer version, feel free to contact me. I will be happy to create a new custom image for you, as long as you are willing to share and like the project.</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ochmanskide&label=Profile%20views&color=0e75b6&style=flat" alt="ochmanskide" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ochmanskide" alt="ochmanskide" /></a> </p>
